@@ -20,9 +20,13 @@ You will see the MIT license, a list of steps that will be performed, and have a
 
 NOTE: This update script DOES backup your existing /opt/Kavita folder, but you should always have take another backup (or snapshot if you are running a virtual machine) beforehand!
 
-## Windows: I may create one in PowerShell if there is enough interest. Or if someone else wants to create one, let me know!
+## Windows: NA
 
-## Mac: Ditto. 
+I may create one in PowerShell if there is enough interest. Or if someone else wants to create one, let me know!
+
+## Mac: NA
+
+Ditto. 
 
 ## Author
 
