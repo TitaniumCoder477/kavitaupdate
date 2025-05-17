@@ -14,7 +14,7 @@
 ## Linux: updateKavita.sh
  
 As root or sudo, type ./updateKavita.sh [url]   where [url] is the fully qualified path to an official update from the Kavita github page.
-For example: ./updateKavita.sh https://github.com/Kareadita/Kavita/releases/download/v0.8.6.2/kavita-linux-x64.tar.gz
+For example: ```./updateKavita.sh https://github.com/Kareadita/Kavita/releases/download/v0.8.6.2/kavita-linux-x64.tar.gz```
 
 You will see the MIT license, a list of steps that will be performed, and have a chance to continue or abort.
 
